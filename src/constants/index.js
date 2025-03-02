@@ -27,7 +27,8 @@ import {
   nayatel,
   neelamiImage,
   aioImage,
-  aioDashboard
+  aioDashboard,teemunoImage,
+  nayatelImage
 } from "../assets";
 
 export const navLinks = [
@@ -146,11 +147,11 @@ const experiences = [
     description:
       "Nayatel is a leading telecommunications provider in Pakistan, known for its high-speed internet and innovative technology solutions.",
     points: [
-      "Implemented and tested enhancement feature requests, improving system efficiency and reliability.",
-      "Optimized API performance and database queries to enhance application speed and scalability.",
-      "Participated in code reviews, ensuring high-quality, maintainable code and adherence to best practices.",
-      "Worked closely with cross-functional teams to develop and deploy new features, contributing to platform growth.",
-      "Gained hands-on experience in troubleshooting, debugging, and resolving complex technical issues in a high-traffic production environment.",
+      "Revamped the existing system by analyzing its architecture and successfully migrating it to a modern Next.js and NestJS stack, enhancing performance and maintainability.",
+      "Worked as a Full-Stack Developer, handling both frontend and backend development, ensuring seamless integration between systems.",
+      "Optimized API performance and database queries, improving application speed, scalability, and efficiency.",
+      "Collaborated with cross-functional teams to develop and deploy new features, contributing to overall platform growth and user experience.",
+      "Performed troubleshooting, debugging, and issue resolution in a high-traffic production environment, ensuring system reliability and stability.",
     ],
   },
   {
@@ -273,7 +274,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    // image: teemunoImage, // Replace with actual image reference
+    image: teemunoImage, // Replace with actual image reference
     source_code_link: "https://teemuno.com/",
   },
   {
@@ -294,7 +295,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    // image: nayatelImage, // Replace with actual image reference
+    image: nayatelImage, // Replace with actual image reference
     source_code_link: "https://nayatel.com/",
   },
   {

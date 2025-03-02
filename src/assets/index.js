@@ -34,6 +34,8 @@ import nayatel from './tech/nayatel.png';
 import neelamiImage from './neelami.png';
 import aioDashboard from './aio-dashboard.png';
 import aioImage from './company/Aio.png';
+import teemunoImage from './teemuno.png';
+import nayatelImage from './nayatel.png'
 
 export {
   logo,
@@ -68,5 +70,7 @@ export {
   nayatel,
   neelamiImage,
   aioImage,
-  aioDashboard
+  aioDashboard,
+  teemunoImage,
+  nayatelImage
 };
