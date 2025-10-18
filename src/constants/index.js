@@ -172,37 +172,37 @@ const experiences = [
       "Conducted performance optimization and debugging to enhance system reliability and efficiency.",
     ],
   },
-  {
-    title: "MERN Stack Developer",
-    company_name: "Codify Pvt Limited",
-    // icon: codify, // Replace with actual icon
-    iconBg: "#E6DEDD",
-    date: "April 2022 - September 2022",
-    location: "Rawalpindi, Pakistan",
-    description:
-      "Codify Pvt Limited is a software development company offering MERN stack development services.",
-    points: [
-      "Developed real-world applications with a focus on both front-end and back-end solutions.",
-      "Implemented test-driven development practices and handled feature enhancement requests.",
-    ],
-  },
-  {
-    title: "Frontend Developer",
-    company_name: "Geneix Software House",
-    // icon: geneix, // Replace with actual icon
-    iconBg: "#383E56",
-    date: "June 2020 - August 2020",
-    location: "PWD, Islamabad",
-    description:
-      "Geneix Software House provides a range of software development services, catering to various client needs.",
-    points: [
-      "Developed and optimized responsive web applications using React, JavaScript, HTML, and CSS.",
-      "Collaborated with designers and backend developers to create seamless, user-friendly interfaces.",
-      "Implemented reusable components and followed best practices for scalability and maintainability.",
-      "Improved website performance and accessibility, ensuring a smooth experience across different devices.",
-      "Gained hands-on experience with Material-UI, Tailwind CSS, and Bootstrap for efficient styling and design.",
-    ],
-  },
+  // {
+  //   title: "MERN Stack Developer",
+  //   company_name: "Codify Pvt Limited",
+  //   // icon: codify, // Replace with actual icon
+  //   iconBg: "#E6DEDD",
+  //   date: "April 2022 - September 2022",
+  //   location: "Rawalpindi, Pakistan",
+  //   description:
+  //     "Codify Pvt Limited is a software development company offering MERN stack development services.",
+  //   points: [
+  //     "Developed real-world applications with a focus on both front-end and back-end solutions.",
+  //     "Implemented test-driven development practices and handled feature enhancement requests.",
+  //   ],
+  // },
+  // {
+  //   title: "Frontend Developer",
+  //   company_name: "Geneix Software House",
+  //   // icon: geneix, // Replace with actual icon
+  //   iconBg: "#383E56",
+  //   date: "June 2020 - August 2020",
+  //   location: "PWD, Islamabad",
+  //   description:
+  //     "Geneix Software House provides a range of software development services, catering to various client needs.",
+  //   points: [
+  //     "Developed and optimized responsive web applications using React, JavaScript, HTML, and CSS.",
+  //     "Collaborated with designers and backend developers to create seamless, user-friendly interfaces.",
+  //     "Implemented reusable components and followed best practices for scalability and maintainability.",
+  //     "Improved website performance and accessibility, ensuring a smooth experience across different devices.",
+  //     "Gained hands-on experience with Material-UI, Tailwind CSS, and Bootstrap for efficient styling and design.",
+  //   ],
+  // },
 ];
 
 
@@ -254,7 +254,7 @@ const projects = [
       },
     ],
     image: neelamiImage, // Replace with actual image reference
-    source_code_link: "https://nelami.ihamza.dev",
+    source_code_link: "https://nelami.ihamza.dev/",
   },
   {
     name: "Gimmefy/Teemuno",
